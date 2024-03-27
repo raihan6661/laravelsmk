@@ -1,4 +1,5 @@
 {{-- Ini diubah oleh Acil --}}
+{{-- Bariss ke 2 di branch b --}}
 
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
