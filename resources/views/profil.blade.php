@@ -1,4 +1,4 @@
 @extends('layout.main')
 @section('container')
-    <center><h1>Ini Halaman Profil</h1></center>    
+    <img src="/assets/img/profil-smk.jpeg" alt="" class="img-fluid">        
 @endsection
